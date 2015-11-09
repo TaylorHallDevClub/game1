@@ -1,0 +1,25 @@
+Midevil Mythical 
+boy of a dying class or species
+Raised/trained to face evil and to ensure the survival of....
+now those who raised you  are in danger, your race/other in danger
+
+story progresses, understanding of what is at stake grows
+
+chargered with protecting the relic. Raised by the last in a line of royal knights, his grandfather took him in after his parents where killed. The old man is fieble 
+while knowledgeable, he is not strong enough to carry out his duties. The torch is past to the boy after the relic is stolen and the old man is killed.
+
+Monsters:
+gremlins, upclose, fast, low HP, low Hit Points, use swords etc. --sword 
+Orcs, mid to close range, slower than gremlins, medium HP and Hit Points, use axes and hammers --axe or --spear
+Trolls, long range, very slow, high HP and Hit Points, smashes when close, throws stones from far away --bow
+
+Any of the above may be altered with the addition of armor. 
+As the game progresses the types of enemies the player faces become stronger and begin their attack from further away. To counter this effect, weapons of increasing
+	and range will be made availible as the player progresses. 
+
+Bosses:
+witches, different elemental types, have different weaknesses and stregnths based on that element. In addition to attacking the player dirrectly, the witch will also
+	alter the game environemtn, make section of floors drop away into lava pits for fire witch as an example. the player will need to determine which elemnts to attack the
+	witch with as well as negotia the environment and determin which elements to best counter the environmental spells cast by the witch
+
+ 
